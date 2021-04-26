@@ -1,16 +1,5 @@
-# Webpack starter
+# MVC App
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Se realiza con la arquitectura MVC
 
-### Notas:
-Recuerden reconstruir los módulos de Node
-```
-npm install
-
-```
-
-Y para construir el build, recuerden:
-
-```
-npm run build
-```
+> Instalar módulos de node y ejecutar npm start
